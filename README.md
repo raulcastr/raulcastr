@@ -14,6 +14,6 @@ My name is Raul Castrillo and I’m currently diving deep into :chart_with_downw
 
 * :family_man_woman_girl_boy: [Population Analysis](https://github.com/raulcastr/Population-Analysis-Barcelona-AC-BC): Comparison of the changes in the population within the different districts in barcelona regarding birth rates, inmigration rates and family income of the 2 years before and the 2 years after the latest government change to analise it's impact.
 
-* :video_game: [TicTacToe Game](https://github.com/raulcastr/TicTacToe-Game): TicTacToe Game
+* :video_game: [TicTacToe Game](https://github.com/raulcastr/TicTacToe-Game): Tic-Tac-Toe Based Game
 
 📫 You can reach me on my [Linkedin](https://www.linkedin.com/in/raulcastrillomartinez/) profile. 
