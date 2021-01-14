@@ -2,7 +2,7 @@
 
 
 
-My name is Raul Castrillo and I’m currently diving deep into :chart_with_downwards_trend:**Data Analytics** and :bar_chart:**Data Engineering**.
+My name is Raul Castrillo and I’m currently diving deep into :chart_with_downwards_trend:**Data Analytics** and :bar_chart:**Data Science**.
 
 :card_index_dividers: &nbsp; Here i leave you links to my **main projects** and a small decription of them : :arrow_heading_down: 
 
