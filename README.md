@@ -8,7 +8,7 @@ Currently diving deep into :chart_with_downwards_trend:**Data Analysis** and :ba
 
 * :musical_keyboard: [Music Generator](https://github.com/raulcastr/Music-Generator): A Recurrent Neural Network model (LSTM) that is able to learn and predict the sequential structure of music and to choose from a discrete set of possibilities for subsequent notes, in other words: generates monophonic melodies.
 
-* :musical_note: [Song Recommender](https://github.com/raulcastr/Song-Recommender): App that recommends songs from a 100k song database ( gathered from Spotify API & Webscrapping) based on
+* :musical_note: [Song Recommender](https://github.com/raulcastr/Song-Recommender): App that asks the user for a song & artist that he/she likes and based on the audio features of that song it recommends new songs from a database (gathered from Spotify API & Webscrapping) with similar audio features using an unsupervised Machine Learning algorithm (K-means clustering).
 
 * :earth_americas: [Tourism Analysis: Cheap Deals](https://github.com/raulcastr/Tourism-Cheap-Deals-Analysis): Price analysis within more than 1 Million airbnb accomodations and the local prices for the top 50 most visited cities around the world with the objective of finding the cheapest deals for tourists with lower income. 
 
