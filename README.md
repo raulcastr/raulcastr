@@ -10,7 +10,7 @@ Currently diving deep into :chart_with_downwards_trend:**Data Analysis** and :ba
 
 * :musical_note: [Song Recommender](https://github.com/raulcastr/Song-Recommender): App that asks the user for a song & artist that he/she likes and based on the audio features of that song it recommends new songs from a database (gathered from Spotify **API & Webscrapping**) with similar audio features using **Unsupervised Machine Learning algorithm (K-means clustering)**.
 
-* :earth_americas: [Tourism Analysis: Cheap Deals](https://github.com/raulcastr/Tourism-Cheap-Deals-Analysis): Price analysis within more than 1 Million airbnb accomodations and the local prices for the top 50 most visited cities around the world with the objective of finding the cheapest deals for tourists with lower income. 
+* :earth_americas: [Tourism Analysis: Cheap Deals](https://github.com/raulcastr/Tourism-Cheap-Deals-Analysis): Price analysis within  ~1 Million airbnb accomodations and the local prices for the top 50 most visited cities around the world with the objective of finding the cheapest deals for tourists with lower income. 
 
 * :family_man_woman_girl_boy: [Population Analysis](https://github.com/raulcastr/Population-Analysis-Barcelona-AC-BC): Comparison of the changes in the population within the different districts in barcelona regarding birth rates, inmigration rates and family income of the 2 years before and the 2 years after the latest government change to analise it's impact.
 
