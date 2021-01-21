@@ -6,7 +6,7 @@ Currently diving deep into :chart_with_downwards_trend:**Data Analysis** and :ba
 
 :card_index_dividers: &nbsp; Here i leave you links to my **main projects** and a small decription of them : :arrow_heading_down: 
 
-* :musical_keyboard: [Music Generator](https://github.com/raulcastr/Music-Generator): A **Recurrent Neural Network model (LSTM)** that is able to learn and predict the sequential structure of music and to choose from a discrete set of possibilities for subsequent notes, in other words: generates monophonic melodies.
+* :musical_keyboard: [Music Generator](https://github.com/raulcastr/Music-Generator): **Recurrent Neural Network model (LSTM)** that is able to learn and predict the sequential structure of music and to choose from a discrete set of possibilities for subsequent notes, in other words: generates monophonic melodies.
 
 * :musical_note: [Song Recommender](https://github.com/raulcastr/Song-Recommender): App that asks the user for a song & artist that he/she likes and based on the audio features of that song it recommends new songs from a database (gathered from Spotify **API & Webscrapping**) with similar audio features using an **Unsupervised Machine Learning algorithm (K-means clustering)**.
 
