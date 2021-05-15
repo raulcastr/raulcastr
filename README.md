@@ -2,7 +2,7 @@
 
 
 
-Currently diving deep into :chart_with_downwards_trend:**Data Analysis** and :bar_chart:**Data Science**.
+Currently diving deep into :chart_with_downwards_trend:**Data Analysis** ,  :bar_chart:**Data Science** and :computer: **Data Engineering** .
 
 :card_index_dividers: &nbsp; Here i leave you links to my **main projects** and a small decription of them : :arrow_heading_down: 
 
